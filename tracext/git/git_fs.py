@@ -301,6 +301,8 @@ class GitNode(Node):
 
                         if k=='tree':
                                 pass
+                        elif k=='commit':
+                                pass
                         elif k=='blob':
                                 kind = Node.FILE
                         else:

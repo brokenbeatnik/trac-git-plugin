@@ -10,7 +10,7 @@ setup(
     author_email='hvr@gnu.org',
     keywords='trac scm plugin git',
     url="http://trac-hacks.org/wiki/GitPlugin",
-    version='0.11.0.2',
+    version='0.11.0.3',
     license="GPL",
     long_description="""
     This Trac 0.11 plugin provides support for the GIT SCM.
